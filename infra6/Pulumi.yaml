@@ -1,0 +1,3 @@
+name: gcp-csharp23
+runtime: dotnet
+description: A minimal Google Cloud C# Pulumi program
